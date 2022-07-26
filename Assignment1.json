@@ -1,0 +1,48 @@
+{
+  "employees": {
+    "employee": [
+      {
+        "partyID": "01786",
+        "partyType": "PERSON",
+        "partystatus": "PARTY_ENABLED",
+        "role": "Employee"
+      },
+      {
+        "Title": "Mr",
+        "Firstname": "Mustak",
+        "LastName": "Patel",
+        "nickname": "Faiz",
+        "gender": "Male",
+        "Birthdate": "25-01-1999"
+      },
+      {
+        "Email_Address": "mutakpatel278@gmail.com",
+        "Purposes": "PRIMARY E-MAIL ADDRESS"
+      },
+      {
+        "POSTAL_ADDRESS": "vikash nagar 23D",
+        "To Name": "Mustak",
+        "Address Line": "Dewas",
+        "City": "Dewas",
+        "State": "MP",
+        "Postal Code": "455001",
+        "Country": "india"
+      },
+      {
+        "PHONE_MOBILE": "9111460152",
+        "Purposes": "main phone number"
+      },
+      {
+        "PHONE_HOME": "7999879035",
+        "Contact Purpose": "Main phone number"
+      },
+      {
+        "GERNRAL_LOCATION": "Village pitawla Dist. Dewas MP"
+      },
+      {
+        "User Login Id": "mustakpatel",
+        "Password": "fz1M7Pdk"
+      }
+    ]
+  }
+}
